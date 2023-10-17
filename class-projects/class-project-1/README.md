@@ -1,3 +1,3 @@
-# [Class Project Title]
+# Class Project Title 1 - Figma essentials
 
-Provide a short description of your results, if applicable.
+The uploaded video showcases a dynamically adaptable hero section within the Figma platform. This demonstration serves as compelling evidence of its responsiveness, affirming that users can effortlessly modify the visual aesthetics and user experience of menu items to suit their specific design preferences.

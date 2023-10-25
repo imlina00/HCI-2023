@@ -13,10 +13,10 @@ export default function Home() {
           </li>
         </ul>
       </nav> */}
-      <h1>Home page</h1>
+      <h1>HOME PAGE</h1>
 
       <div className="container">
-        <div className="centered-content">
+        <div className="centered-content menu-list" >
           <p>Zapeo si s učenjem? Propustio predavanja i sad ne znaš kako dalje? Ova stranica je 
           prava za tebe! Dobrodošli na mjesto gdje ćete pronaći sve materijale koji su potrebni 
           za uspješno studiranje na Fakultetu elektrotehnike, strojarstva i brodogradnje, smjer 

@@ -1,12 +1,4 @@
-# User personas and information architecture
-
 # Class project 2: User personas and information architecture
-
-Status: In progress
-Course: HCI (https://www.notion.so/HCI-19634c8f65cb4e5f882ed1432e55aaaa?pvs=21)
-Due date: October 25, 2023
-Type: Homework
-
 ## Project Tasks:
 
 1. Create 3 user personas for our project.
@@ -16,8 +8,9 @@ Type: Homework
 ## 1. User personas
 
 ### User person 1: Sarah the Senior
+<img width="4307" alt="User persona (Copy) (3)" src="https://github.com/imlina00/HCI-2023-24/assets/92449291/2746a504-107e-484b-b608-bdac543eb2eb">
 
-![User persona (Copy) (3).png](Class%20project%202%20User%20personas%20and%20information%20arch%20947d9ad031e646dba00af215445d882b/User_persona_(Copy)_(3).png)
+
 
 ### User person 2: Alex the Part-Time Worker
 

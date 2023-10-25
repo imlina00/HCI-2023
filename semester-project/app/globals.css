@@ -17,6 +17,111 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
+  color: darkorange;
+  background-color: rgb(23, 40, 169);
+}
+
+header {
+  background-color: rgb(255, 248, 228); /* Postavite pozadinsku boju headera */
+  color: rgb(23, 40, 169); /* Postavite boju teksta na bijelu */
+  padding: 10px 0; /* Dodajte unutarnji prostor headeru */
+}
+
+
+.header-content {
+  display: flex; /* Koristimo flexbox za raspored elemenata */
+  align-items: center; /* Centriramo elemente vertikalno */
+  justify-content: space-between; /* Postavite prostor između elemenata s lijeva i desna */
+}
+
+
+.icon-container {
+  display: flex;
+  align-items: center;
+}
+
+.icon-container img {
+  width: 40px;
+  height: auto;
+  margin-right: 10px; /* Dodajte razmak između ikone i teksta */
+}
+
+.icon-container p {
+  font-weight: bold;
+  color: rgb(23, 40, 169);
+  margin: 0; /* Uklonite margin paragrafa */
+}
+
+/* CSS za stiliziranje "li" elemenata s desne strane */
+.menu-list {
+  list-style: none; /* Uklonite oznake liste */
+  padding: 0; /* Uklonite unutarnji prostor liste */
+  margin: 0; /* Uklonite marginu lista */
+  display: flex; /* Koristimo flexbox za raspored "li" elemenata */
+  justify-content: flex-end; /* Poravnanje "li" elemenata s desna */
+  gap: 10px; /* Dodajte razmak između "li" elemenata */
+}
+
+.menu-list li {
+  font-weight: bold; /* Podebljajte tekst */
+  color: rgb(23, 40, 169); /* Postavite boju teksta na bijelu */
+}
+
+.menu-list a {
+  color: rgb(23, 40, 169); /* Postavite boju teksta na bijelu */
+  text-decoration: none; /* Uklonite podcrtavanje veza */
+}
+
+.menu-list li:last-child {
+  margin-right: 20px; /* Dodajte marginu na posljednjem "li" elementu */
+}
+
+
+/* CSS za postavljanje <h1> na sredinu stranice */
+h1 {
+  color: darkorange; /* Postavite boju na tamno narančastu */
+  font-size: xx-large;
+  margin-bottom: 20px; /* Dodajte razmak ispod naslova */
+  text-align: center; /* Centrirajte tekst unutar <h1> */
+  position: absolute; /* Postavite apsolutnu poziciju */
+  left: 50%; /* Postavite lijevi rub <h1> na sredinu ekrana */
+  transform: translate(-50%, -50%); /* Pomaknite <h1> unatrag za polovicu svoje širine i visine kako biste ga stvarno centrirali */
+}
+
+
+
+/* CSS za stiliziranje elemenata <li> i unutarnjih <a> linkova */
+li {
+  margin-bottom: 10px; /* Dodajte razmak ispod svakog <li> elementa */
+}
+
+li a {
+  font-weight: bold; /* Podebljajte tekst unutar <a> elementa */
+  color: darkorange; /* Postavite boju teksta unutar <a> elementa na tamno narančastu */
+  font-size: 16px; /* Postavite početnu veličinu fonta */
+  transition: font-size 0.2s; /* Dodajte glatku tranziciju promjene veličine fonta */
+}
+
+li a:hover {
+  font-size: 18px; /* Povećajte veličinu fonta na hover */
+}
+
+
+
+.container {
+  display: flex;
+  justify-content: center; /* Centrirajte horizontalno (po X osi) */
+  align-items: center; /* Centrirajte vertikalno (po Y osi) */
+  height: 100vh;
+  margin: 0 20%; /* Postavite margine kako biste centrirali sadržaj i spriječili rubove uz lijevu stranu */
   
+}
+
+.centered-content {
+  text-align: center; /* Centrirajte tekst unutar elementa */
+}
+
+p {
+  width: 20%;
+  padding: 10px;
 }

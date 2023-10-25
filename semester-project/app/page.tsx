@@ -1,7 +1,31 @@
+import Link from 'next/link';
+
 export default function Home() {
   return (
-    <main className="flex justify-center items-center h-screen">
-      <h1 className="text-4xl p-4">HOMEPAGE</h1>
-    </main>
+    <div>
+{/*       <nav>
+        <ul className="w-14 flex flex-row justify-between">
+          <li>
+            <Link href="/about">About me</Link>
+          </li>
+          <li>
+            <Link href="/about">Subjects</Link>
+          </li>
+        </ul>
+      </nav> */}
+      <h1>Home page</h1>
+
+      <div className="container">
+        <div className="centered-content">
+          <p>Zapeo si s učenjem? Propustio predavanja i sad ne znaš kako dalje? Ova stranica je 
+          prava za tebe! Dobrodošli na mjesto gdje ćete pronaći sve materijale koji su potrebni 
+          za uspješno studiranje na Fakultetu elektrotehnike, strojarstva i brodogradnje, smjer 
+          računarstvo. Spremni za izazov? Ova stranica je vodič prema uspjehu.</p>
+        </div>
+      </div>
+
+      
+    </div>
+
   );
 }

@@ -14,11 +14,11 @@
 
 ### User person 2: Alex the Part-Time Worker
 
-![User persona (Copy) (2).png](Class%20project%202%20User%20personas%20and%20information%20arch%20947d9ad031e646dba00af215445d882b/User_persona_(Copy)_(2).png)
+<img width="4307" alt="User persona (Copy) (2)" src="https://github.com/imlina00/HCI-2023-24/assets/92449291/ae25eb71-f781-4759-b533-2361da4ef4fc">
+
 
 ### User person 3: Emily the Freshman
-
-![User persona (Copy) (1).png](Class%20project%202%20User%20personas%20and%20information%20arch%20947d9ad031e646dba00af215445d882b/User_persona_(Copy)_(1).png)
+<img width="4307" alt="User persona (Copy) (1)" src="https://github.com/imlina00/HCI-2023-24/assets/92449291/33c1851e-bfa1-4eab-ac97-72811b83254a">
 
 ## 2. Information Architecture and Card Sorting
 
@@ -44,4 +44,5 @@
 
 ## 3. Sitemap
 
-![WhatsApp Slika 2023-10-25 u 13.53.46_f831490e.jpg](Class%20project%202%20User%20personas%20and%20information%20arch%20947d9ad031e646dba00af215445d882b/WhatsApp_Slika_2023-10-25_u_13.53.46_f831490e.jpg)
+![WhatsApp Slika 2023-10-25 u 13 53 46_f831490e](https://github.com/imlina00/HCI-2023-24/assets/92449291/7bba97b3-eeca-4ad7-ba41-612f7b606657)
+

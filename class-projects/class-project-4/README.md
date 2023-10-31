@@ -1,4 +1,4 @@
-[Class Project 4 Low High-fidelity prototype.md](https://github.com/imlina00/HCI-2023-24/files/13215562/Class.Project.4.Low.High-fidelity.prototype.md)[Uploading Cla# Class Project 4: Low/High-fidelity prototype
+# Low High-fidelity prototype
 
 ## Project Tasks:
 

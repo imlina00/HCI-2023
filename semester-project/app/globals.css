@@ -85,10 +85,12 @@ header {
 h1 {
   color: darkorange;
   font-size: xx-large;
-  /* margin-top: 30px; */
+  margin-top: 30px;
   margin-bottom: 20px;
   text-align: center;
-  font-weight: bold;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
 }
 
 li {
@@ -107,40 +109,19 @@ li a:hover {
 }
 
 
+
 .container {
   display: flex;
   justify-content: center; /* Centrirajte horizontalno (po X osi) */
   align-items: center; /* Centrirajte vertikalno (po Y osi) */
-  /* height: 100vh; */
+  height: 100vh;
 }
 
-/* .centered-content {
-  text-align: left;
-} */
-
 .centered-content {
-  text-align: left; /* Center the text horizontally */
-  display: flex;
-  justify-content: center; /* Center the content horizontally */
-  align-items: center; /* Center the content vertically */
+  text-align: center; /* Centrirajte tekst unutar elementa */
 }
 
 p {
-  padding: 5px;
-  max-width: 800px;
+  width: 20%;
+  padding: 10px;
 }
-
-/* footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  z-index: 100;
-  background-color: rgb(255, 248, 228);
-  color: darkorange;
-  padding: 1px 0;
-  text-align: center;  
-}
-
-footer p {
-  margin: 2px 0;
-} */

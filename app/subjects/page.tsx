@@ -1,5 +1,6 @@
 import Link from "next/link";
 import clsx from "clsx";
+// import './globals.css';
 
 export interface Post {
   userId: number;
@@ -52,7 +53,7 @@ export default async function Blog({
 
   return (
     <main className="flex flex-col items-center min-h-screen max-w-5xl m-auto p-10">
-      <h1 className="text-3xl font-bold p-10">Blog Index Page</h1>
+      <h1>SUBJECTS PAGE</h1>
 
       {_limit && _page && (
         <div className="flex items-baseline gap-8 pb-10">
@@ -62,7 +63,7 @@ export default async function Blog({
           <div className="flex gap-4">
             <Link
               href={{
-                pathname: "/blog",
+                pathname: "/subjects",
                 query: { _page: 1, _limit: pageSize },
               }}
               className="rounded border bg-gray-100 px-3 py-1 text-gray-800"
@@ -71,7 +72,7 @@ export default async function Blog({
             </Link>
             <Link
               href={{
-                pathname: "/blog",
+                pathname: "/subjects",
                 query: { _page: page > 1 ? page - 1 : 1, _limit: pageSize },
               }}
               className={clsx(
@@ -83,7 +84,7 @@ export default async function Blog({
             </Link>
             <Link
               href={{
-                pathname: "/blog",
+                pathname: "/subjects",
                 query: { _page: page + 1, _limit: pageSize },
               }}
               className={clsx(
@@ -95,7 +96,7 @@ export default async function Blog({
             </Link>
             <Link
               href={{
-                pathname: "/blog",
+                pathname: "/subjects",
                 query: { _page: totalPages, _limit: pageSize },
               }}
               className="rounded border bg-gray-100 px-3 py-1 text-gray-800"
@@ -109,8 +110,8 @@ export default async function Blog({
       <ul className="flex flex-col gap-8">
         {posts.map((post) => (
           <li key={post.id}>
-            <Link href={`blog/${post.id}`}>
-              <span className="text-2xl text-purple-500">
+            <Link href={`subjects/${post.id}`}>
+              <span className="text-2xl text-darkorange font-normal">
                 Post {post.title}
               </span>
             </Link>

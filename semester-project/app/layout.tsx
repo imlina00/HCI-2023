@@ -30,7 +30,7 @@ export default function RootLayout({
                   <Link href="/">Home</Link>
                 </li>
                 <li>
-                  <Link href="/subjects">Subjects</Link>
+                  <Link href="/subjects?_page=1&_limit=10">Subjects</Link>
                 </li>
                 <li>
                   <Link href="/myprofile">My profile</Link>
@@ -43,6 +43,10 @@ export default function RootLayout({
           </div>
         </header>
         {children}
+        {/* <footer>
+          <p className='centered-content'>Iva Medvidović & Ivona Mlinarević</p>
+          <p className='centered-content'>2023 FESB</p>
+        </footer> */}
       </body>
     </html>
   )

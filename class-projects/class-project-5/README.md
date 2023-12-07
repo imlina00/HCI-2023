@@ -2,4 +2,4 @@
 
 ## Result:
 
-[FESBbaš](https://class-project-5-1xukakh51-ivonas-projects.vercel.app/)
+[FESBbaš](https://hci-zadnji.vercel.app/)

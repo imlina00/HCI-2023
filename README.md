@@ -1,4 +1,4 @@
-## FESBbaš
+# FESBbaš
 
 Welcome to the repository of our FESBbaš application, which will help computer science students find great materials and pass exams.
 

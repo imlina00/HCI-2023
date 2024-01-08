@@ -2,6 +2,9 @@
 
 Welcome to the repository of our FESBbaš application, which will help computer science students find great materials and pass exams.
 
+Reference to the deployed page at current state:
+- [FESBbaš](https://fesbbas.vercel.app/)
+
 References to class projects:
 - [Class project 1: Figma essentials](/class-projects/class-project-1/)
 - [Class project 2: User personas and information architecture](/class-projects/class-project-2/)
@@ -13,9 +16,3 @@ References to class projects:
 - [Class project 8: -](/class-projects/class-project-8/)
 - [Class project 9: -](/class-projects/class-project-9/)
 - [Class project 10: -](/class-projects/class-project-10/)
-
-Reference to the semester project (NOT FINISHED):
-- [Semester project](/semester-project/)
-
-Reference to the deployed page at current state:
-- [FESBbaš](https://fesbbas.hr)

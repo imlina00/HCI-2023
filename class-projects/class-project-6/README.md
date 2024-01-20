@@ -12,4 +12,4 @@ Mobile page:
 
 ## Implementation
 
-Here is the link to the site: [FESBbas](https://fesbbas.hr/).
+Here is the link to the site: [FESBbas](https://fesbbas.vercel.app/).

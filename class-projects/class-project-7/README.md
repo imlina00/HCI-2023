@@ -5,7 +5,7 @@ After thinking and looking for additional inspiration, we decided to work on the
 Here’s the new link: [FESBbaš](https://fesbbas.vercel.app/).
 
 New desktop version of our website:
-[desktop version.pdf](https://github.com/imlina00/HCI-2023-24/files/13998034/desktop.version.pdf)
+![desktop version_page-0001](https://github.com/imlina00/HCI-2023-24/assets/92427754/48922ff7-fa70-4849-a99e-4582699ea7e8)
 
 New mobile version of our website:
-[mobile version.pdf](https://github.com/imlina00/HCI-2023-24/files/13998035/mobile.version.pdf)
+![mobile version_page-0001](https://github.com/imlina00/HCI-2023-24/assets/92427754/7b63d354-b6d8-42ec-8e6e-55009da1925c)

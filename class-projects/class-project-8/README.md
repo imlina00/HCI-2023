@@ -1,7 +1,6 @@
-# Finished page “Studiji”
+# Page “Studiji”
 
-Task for this class project was to finish page which will show all courses and their semesters.
-[FESBbas](http://fesbbas.hr).
+Task for this class project was to design page which will show all courses and their semesters. Page will be deployed when all the courses are also designed and programmed as well.
 
 ![low fidelity](https://github.com/imlina00/HCI-2023-24/assets/92427754/b9aaba76-4f0a-4a0d-845c-1df9b61d0812)
 

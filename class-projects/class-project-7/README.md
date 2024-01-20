@@ -1,4 +1,4 @@
-# [New Low & High-fidelity prototypes]
+# New Low & High-fidelity prototypes
 
 After thinking and looking for additional inspiration, we decided to work on the appearance of our site and there were changes resulting in a new version of the website.
 

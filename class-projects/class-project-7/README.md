@@ -1,4 +1,4 @@
-# [New Low & High-fidelity prototypes](https://github.com/imlina00/HCI-2023-24/blob/main/class-projects/class-project-7)
+# [New Low & High-fidelity prototypes]
 
 After thinking and looking for additional inspiration, we decided to work on the appearance of our site and there were changes resulting in a new version of the website.
 

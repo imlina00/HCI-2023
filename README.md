@@ -3,7 +3,7 @@
 Welcome to the repository of our FESBbaš application, which will help computer science students find great materials and pass exams.
 
 Reference to the deployed page at current state:
-- [FESBbaš](https://fesbbas.vercel.app/)
+- [FESBbaš](https://fesb-bas.vercel.app/)
 
 References to class projects:
 - [Class project 1: Figma essentials](/class-projects/class-project-1/)

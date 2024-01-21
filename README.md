@@ -14,5 +14,5 @@ References to class projects:
 - [Class project 6: Full Responsive Page Coding](/class-projects/class-project-6/)
 - [Class project 7: New Low & High-fidelity prototypes](/class-projects/class-project-7/)
 - [Class project 8: Page "Studiji"](/class-projects/class-project-8/)
-- [Class project 9: -](/class-projects/class-project-9/)
-- [Class project 10: -](/class-projects/class-project-10/)
+- [Class project 9: Finished pages for all courses](/class-projects/class-project-9/)
+- [Class project 10: Contentful](/class-projects/class-project-10/)

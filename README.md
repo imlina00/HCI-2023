@@ -2,7 +2,10 @@
 
 Welcome to the repository of our FESBbaš application, which will help computer science students find great materials and pass exams.
 
-Reference to the deployed page at current state:
+Report: 
+- [Notion](https://www.notion.so/HCI-projekt-FESBba-9083ee531bbb4ef6b3f4ace334ceef5f)
+
+Reference to the deployed page:
 - [FESBbaš](https://fesb-bas.vercel.app/)
 
 References to class projects:
